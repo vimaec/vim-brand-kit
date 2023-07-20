@@ -1,0 +1,131 @@
+<svg id="_logo-color-landscape-alt" data-name="🌑 logo-color-landscape-alt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="239.472" height="91" viewBox="0 0 239.472 91">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.081" cy="0.093" r="1.09" gradientTransform="translate(0 -0.008) scale(1 1.351)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0590cc"/>
+      <stop offset="1" stop-color="#54cbff"/>
+    </radialGradient>
+    <clipPath id="clip-path">
+      <path id="mask" d="M87.576,74.826,35.619,44.492l51.957,91,51.955-91Z" transform="translate(-35.619 -44.492)" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-2" cx="0.572" cy="0.464" r="0.408" gradientTransform="translate(0 -0.173) scale(1 1.435)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#56c59c"/>
+      <stop offset="0.325" stop-color="#56c59c"/>
+      <stop offset="1" stop-color="#0590cc"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="0.5" cy="0.352" r="0.305" gradientTransform="translate(0 -0.07) scale(1 1.199)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00b0ed"/>
+      <stop offset="0.175" stop-color="#00aeea"/>
+      <stop offset="1" stop-color="#00afec" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="0.5" cy="0.285" r="0.487" gradientTransform="translate(0 -0.061) scale(1 1.174)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0590cc" stop-opacity="0"/>
+      <stop offset="0.276" stop-color="#0590cc" stop-opacity="0.275"/>
+      <stop offset="1" stop-color="#201894"/>
+    </radialGradient>
+    <clipPath id="clip-path-2">
+      <path id="mask-2" data-name="mask" d="M87.583,104.856v30.636l51.955-91Z" transform="translate(-87.583 -44.492)" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-5" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip-path-3">
+      <path id="mask-3" data-name="mask" d="M87.577,135.492V104.856L35.62,44.492Z" transform="translate(-35.62 -44.492)" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-8" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#67cbff"/>
+      <stop offset="1" stop-color="#67cbff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-9" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.59" stop-color="#c5daff" stop-opacity="0.737"/>
+      <stop offset="1" stop-color="#2474ff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip-path-4">
+      <path id="mask-4" data-name="mask" d="M61.6,89.992l8.775-5.123L35.62,44.492Z" transform="translate(-35.62 -44.492)" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-10" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#38b8e6"/>
+      <stop offset="1" stop-color="#2bb8e8" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip-path-5">
+      <path id="mask-5" data-name="mask" d="M139.537,44.492,87.581,74.826v30.03Z" transform="translate(-87.581 -44.492)" fill="#0590cc"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-12" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0dc6ff"/>
+      <stop offset="1" stop-color="#17c9ff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip-path-6">
+      <path id="mask-6" data-name="mask" d="M104.784,84.536l-17.2,19.987V74.492Z" transform="translate(-87.586 -74.492)" fill="#8ddcff" opacity="0.16"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-13" cx="1.093" cy="0.246" r="0.939" gradientTransform="translate(0 0.213) scale(1 0.386)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8ddcff"/>
+      <stop offset="1" stop-color="#68cfff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip-path-7">
+      <path id="mask-7" data-name="mask" d="M70.377,84.535l17.2,19.988V74.493Z" transform="translate(-70.377 -74.493)" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-14" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a4ebff"/>
+      <stop offset="1" stop-color="#acedff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip-path-8">
+      <path id="mask-8" data-name="mask" d="M70.373,84.869l17.2-10.043L35.616,44.492Z" transform="translate(-35.616 -44.492)" opacity="0.53" fill="url(#radial-gradient)"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-16" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#60dcff"/>
+      <stop offset="1" stop-color="#60dcff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="_logo-color-mark" data-name="🌕 logo-color-mark">
+    <g id="mark">
+      <g id="v-full" transform="translate(0.004)" clip-path="url(#clip-path)">
+        <path id="fill" d="M87.575,74.826,35.62,44.492l51.956,91,51.956-91Z" transform="translate(-35.619 -44.492)" fill="url(#radial-gradient-2)"/>
+        <path id="fill-2" data-name="fill" d="M87.575,74.826,35.62,44.492l51.956,91,51.956-91Z" transform="translate(-35.619 -44.492)" opacity="0.7" fill="url(#radial-gradient-3)"/>
+        <path id="fill-3" data-name="fill" d="M87.575,74.826,35.62,44.492l51.956,91,51.956-91Z" transform="translate(-35.619 -44.492)" opacity="0.5" fill="url(#radial-gradient-4)" style="mix-blend-mode: multiply;isolation: isolate"/>
+      </g>
+      <g id="btm-right-full" transform="translate(51.961)" clip-path="url(#clip-path-2)">
+        <path id="fill-4" data-name="fill" d="M87.583,104.856v30.637l51.956-91Z" transform="translate(-87.583 -44.492)" fill="#fff" opacity="0.35" style="mix-blend-mode: overlay;isolation: isolate"/>
+        <path id="fill-5" data-name="fill" d="M87.583,104.856v30.637l51.956-91Z" transform="translate(-87.583 -44.492)" fill="#fff" opacity="0.1"/>
+        <ellipse id="gradient" cx="16.166" cy="75.631" rx="16.166" ry="75.631" transform="translate(40.953 -35.262) rotate(32)" opacity="0.6" fill="url(#radial-gradient-5)"/>
+        <ellipse id="gradient-2" data-name="gradient" cx="7.636" cy="44.408" rx="7.636" ry="44.408" transform="matrix(0.875, 0.485, -0.485, 0.875, 44.109, 0.962)" opacity="0.45" fill="url(#radial-gradient-5)"/>
+        <ellipse id="gradient-3" data-name="gradient" cx="23.488" cy="31.341" rx="23.488" ry="31.341" transform="matrix(0.99, 0.139, -0.139, 0.99, -29.487, 38.605)" opacity="0.5" fill="url(#radial-gradient-5)" style="mix-blend-mode: hard-light;isolation: isolate"/>
+      </g>
+      <path id="btm-right-half" d="M113.561,89.992l-8.775-5.123,34.753-40.377Z" transform="translate(-35.624 -44.491)" fill="#fff" opacity="0.16"/>
+      <g id="btm-left-full" transform="translate(0.005)" clip-path="url(#clip-path-3)">
+        <path id="fill-6" data-name="fill" d="M87.576,135.493V104.856L35.621,44.493Z" transform="translate(-35.62 -44.492)" fill="#0590cc" opacity="0.5"/>
+        <ellipse id="gradient-4" data-name="gradient" cx="13.028" cy="55.519" rx="13.028" ry="55.519" transform="matrix(0.891, -0.454, 0.454, 0.891, -14.584, -5.942)" opacity="0.62" fill="url(#radial-gradient-8)" style="mix-blend-mode: overlay;isolation: isolate"/>
+        <ellipse id="gradient-5" data-name="gradient" cx="16.044" cy="44.126" rx="16.044" ry="44.126" transform="matrix(0.891, -0.454, 0.454, 0.891, -14.863, 16.118)" opacity="0.62" fill="url(#radial-gradient-9)"/>
+      </g>
+      <g id="btm-left-half" transform="translate(0.005)" clip-path="url(#clip-path-4)">
+        <path id="fill-7" data-name="fill" d="M61.6,89.992l8.775-5.123L35.621,44.492Z" transform="translate(-35.62 -44.492)" fill="#64daff" opacity="0.08"/>
+        <ellipse id="gradient-6" data-name="gradient" cx="30.086" cy="33.807" rx="30.086" ry="33.807" transform="translate(-35.356 -7.441) rotate(-31)" opacity="0.87" fill="url(#radial-gradient-10)"/>
+        <ellipse id="gradient-7" data-name="gradient" cx="15.591" cy="20.879" rx="15.591" ry="20.879" transform="translate(8.638 26.937) rotate(-31)" opacity="0.21" fill="url(#radial-gradient-5)"/>
+      </g>
+      <g id="top-right" transform="translate(51.96 0.001)" clip-path="url(#clip-path-5)">
+        <path id="mask-9" data-name="mask" d="M139.537,44.492,87.581,74.826v30.03Z" transform="translate(-87.581 -44.492)" fill="#aee7ff" opacity="0.3"/>
+        <ellipse id="gradient-8" data-name="gradient" cx="23.704" cy="38.328" rx="23.704" ry="38.328" transform="matrix(0.629, 0.777, -0.777, 0.629, 19.805, -28.353)" fill="url(#radial-gradient-12)"/>
+      </g>
+      <g id="top-right-mid" transform="translate(51.965 30.335)" clip-path="url(#clip-path-6)">
+        <path id="gradient-9" data-name="gradient" d="M104.784,84.536l-17.2,19.987V74.492Z" transform="translate(-87.586 -74.492)" opacity="0.49" fill="url(#radial-gradient-13)"/>
+      </g>
+      <g id="top-left-mid" transform="translate(34.758 30.335)" clip-path="url(#clip-path-7)">
+        <path id="fill-8" data-name="fill" d="M70.378,84.536l17.2,19.987V74.492Z" transform="translate(-70.377 -74.493)" fill="#1ec9ff" opacity="0.2"/>
+        <ellipse id="gradient-10" data-name="gradient" cx="20.848" cy="21.424" rx="20.848" ry="21.424" transform="translate(-23.847 -20.786)" opacity="0.67" fill="url(#radial-gradient-14)"/>
+        <path id="fill-9" data-name="fill" d="M70.378,84.536l17.2,19.987V74.492Z" transform="translate(-70.377 -74.493)" fill="#fff" opacity="0.1"/>
+      </g>
+      <g id="top-left" transform="translate(0 0.001)" clip-path="url(#clip-path-8)">
+        <path id="top-left-2" data-name="top-left" d="M70.373,84.869l17.2-10.043L35.616,44.492Z" transform="translate(-35.616 -44.492)" opacity="0.3" fill="url(#radial-gradient)"/>
+        <path id="top-left-3" data-name="top-left" d="M70.373,84.869l17.2-10.043L35.616,44.492Z" transform="translate(-35.616 -44.492)" fill="#8ed8ff" opacity="0.24" style="mix-blend-mode: screen;isolation: isolate"/>
+        <ellipse id="gradient-11" data-name="gradient" cx="20.848" cy="21.424" rx="20.848" ry="21.424" transform="translate(27.908 2.584)" opacity="0.3" fill="url(#radial-gradient-16)"/>
+      </g>
+    </g>
+  </g>
+  <g id="text" transform="translate(-158.283 -111.852)">
+    <path id="Path_14183" data-name="Path 14183" d="M290.871,176.579l-11.282-34.866h-9.306l15.871,45h9.306l15.871-45h-9.178Z" transform="translate(0)" fill="#fff"/>
+    <rect id="Rectangle_16968" data-name="Rectangle 16968" width="8.541" height="44.617" transform="translate(317.769 141.713)" fill="#fff"/>
+    <path id="Path_14184" data-name="Path 14184" d="M423.22,141.713l-11.027,33.718L401.23,141.713H389.247l-2.295,44.617h8.031l1.594-34.419,11.345,34.482h8.35l11.41-34.355,1.53,34.292h8.477l-2.295-44.617Z" transform="translate(-53.631 0)" fill="#fff"/>
+    <path id="Path_14185" data-name="Path 14185" d="M489.7,217.885h1.257v3.141h1.064v-3.141h1.257v-.925H489.7Z" transform="translate(-100.861 -34.59)" fill="#fff"/>
+    <path id="Path_14186" data-name="Path 14186" d="M500.374,216.96l-.8,2.583-.8-2.583h-1.431l-.21,4.066h.995l.122-2.583.82,2.583h1l.821-2.583.122,2.583h1.029l-.227-4.066Z" transform="translate(-104.277 -34.59)" fill="#fff"/>
+  </g>
+</svg>
